@@ -5,3 +5,6 @@
 [submodule "pcaone"]
 	path = pcaone
 	url = https://github.com/zilong-li/pcaoner
+[submodule "vcfppR"]
+	path = vcfppR
+	url = https://github.com/zilong-li/vcfppr
